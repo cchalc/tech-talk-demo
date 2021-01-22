@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Shared/dbx/tech_talk_demo",
+      "artifact_location": "dbfs:/Shared/dbx/projects/tech_talk_demo"
+    }
+  }
+}
